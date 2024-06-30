@@ -65,7 +65,7 @@ module.exports = {
   caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝐀𝐖𝐀𝐈𝐒 𝐉𝐔𝐓𝐓♥️",
   author: process.env.PACK_AUTHER || "𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐃𝐌 𝐈𝐓𝐒 𝐌𝐄 𝐀𝐖𝐀𝐈𝐒 𝐉𝐔𝐓𝐓 𝐔 𝐍𝐄𝐄𝐃 𝐌𝐎𝐑𝐄 𝐒𝐓𝐈𝐂𝐊𝐄𝐑 𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐃𝐌 𝐈 𝐇𝐀𝐕𝐄 𝐌𝐀𝐍𝐘 𝐓𝐘𝐏𝐄 𝐒𝐓𝐈𝐂𝐊𝐄𝐑 ❤️🔥
 𝟗𝟐𝟑𝟏𝟒𝟔𝟑𝟕𝟓𝟔𝟏𝟎
-𝟗𝟐𝟑𝟒𝟗𝟔𝟒𝟓𝟓𝟖𝟔𝟕",
+𝟗𝟐𝟑𝟒𝟗𝟔𝟒𝟓𝟓𝟖𝟔𝟕"
   packname: process.env.PACK_NAME || "°☆𝐀ωɑ͢ɪ̽s̑̈ 𝐉u͓ȶȶ🎭",
   botname: process.env.BOT_NAME || "°☆𝐀ωɑ͢ɪ̽s̑̈ 𝐉u͓ȶȶ🎭",
   ownername: process.env.OWNER_NAME || "°☆𝐀ωɑ͢ɪ̽s̑̈ 𝐉u͓ȶȶ🎭",
